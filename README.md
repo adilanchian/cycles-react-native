@@ -8,6 +8,9 @@ Not only have people been using this on iOS many people have asked me to build i
 
 ## Sections to build
 
+### Website Update
+- [ ] Need to update (and redepoly) https://getcyclesapp.com. Compeltely ded atm.
+
 ### Onboarding Flow
 - [ ] Get people signed up with Cycles in max 3 steps. This should take them through the following:
   - [ ] Creating an optional account
