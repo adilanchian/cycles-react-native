@@ -1,0 +1,12 @@
+{
+  "name": "cycles-v2",
+  "displayName": "cycles-v2",
+  "expo": {
+    "name": "cycles-v2",
+    "slug": "cycles-v2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
